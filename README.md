@@ -36,7 +36,7 @@
   </tr>
   <tr style="width:fit-content; border: 1px solid;">
     <td> Food Delivery Website </td>
-    <td> Web API </td>
+    <td> Web API,Admin penal,Restaurant penal </td>
     <td> Application API and Web API Development Using C# </td>
   </tr>
   <tr style="width:fit-content; border: 1px solid;">
