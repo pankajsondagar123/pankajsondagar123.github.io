@@ -23,7 +23,7 @@
 - 7.71 CGPA
 
 
-## Total Work experience (1 Year)
+## Total Work experience (1.5 Year)
 - 👉 I’m Currently working as a **Full Stack Web developer** at **CodeX Lancers ,Surat**.  Where my role is to development of Website using C# and different  programming language and also debug and testing of systems.
 - 👉 During my professional career , I have worked on Web Development projects for various Ecommerce sites, Admin Panels, And Web API.
 
@@ -44,6 +44,27 @@
     <td> admin Panel </td>
     <td> Perform specific event for Meditation Exercise </td>
   </tr>
+   <tr style="width:fit-content; border: 1px solid;">
+    <td> Student admission process </td>
+    <td> admin web, student web and with api </td>
+    <td> student admission process for offer letter,visa process,application, deposite,fess,etc ussing c# and angular </td>
+  </tr>
+   <tr style="width:fit-content; border: 1px solid;">
+    <td> Job find application </td>
+    <td> Web changes </td>
+    <td> find job for video throw. ussing c# and mvc </td>
+  </tr>
+    <tr style="width:fit-content; border: 1px solid;">
+    <td> Lion 11 </td>
+    <td> Api,Admin penal </td>
+    <td> Play on Lion 11 Cricket App & win big prizes daily ussing c#, angular </td>
+  </tr>
+    </tr>
+    <tr style="width:fit-content; border: 1px solid;">
+    <td> One Touch </td>
+    <td> Admin penal </td>
+    <td> Car booking,Package booking </td>
+  </tr>
 </table>
 
 
@@ -59,6 +80,8 @@
 - Intermediate knowledge of c# and Web based programming languages.
 - Basic knowledge of jQuery , html , css , javascript languages.
 - Basic knowledge of bootstrap.
+- Mvc, Angular
+- Datatbase:- SQl server
 - Oops concepts and programming logics and concepts understanding.
 - Problem solving and error handling skills.
 
@@ -71,7 +94,7 @@
 
 ## Web Development:
 
-- C#, jQuery , HTML , CSS , bootstrap , javascript. 
+- C#, jQuery , HTML , CSS , bootstrap , javascript, Mvc, Angular. 
 
 
 ## Version Control Tools:
@@ -98,6 +121,14 @@
     <td>&#11088;&#11088;&#11088;&#11088;&#11088;</td>
   </tr>
   <tr>
+    <td> MVC </td>
+    <td>&#11088;&#11088;&#11088;&#11088;&#11088;</td>
+  </tr>
+  <tr>
+    <td> Angular </td>
+    <td>&#11088;&#11088;&#11088;&#11088;</td>
+  </tr>
+  <tr>
     <td> jQuery </td>
     <td>&#11088;&#11088;&#11088;&#11088;</td>
   </tr>
@@ -107,15 +138,15 @@
   </tr>
   <tr>
     <td> Javascript </td>
-    <td>&#11088;&#11088;&#11088;</td>
+    <td>&#11088;&#11088;&#11088;&#11088;</td>
   </tr>
   <tr>
     <td> HTML </td>
-    <td>&#11088;&#11088;&#11088;</td>
+    <td>&#11088;&#11088;&#11088;&#11088;</td>
   </tr>
   <tr>
     <td> CSS </td>
-    <td>&#11088;&#11088;</td>
+    <td>&#11088;&#11088;&#11088;&#11088;</td>
   </tr>
 </table>
 
