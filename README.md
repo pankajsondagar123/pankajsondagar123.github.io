@@ -38,7 +38,7 @@
   <tr style="width:fit-content; border: 1px solid;">
     <td> Food Delivery Website </td>
     <td> Web API,Admin penal,Restaurant penal </td>
-    <td> C#, MVC </td>
+    <td> .net Core, MVC </td>
     <td> Application API and Web API Development Using C# </td>
   </tr>
   <tr style="width:fit-content; border: 1px solid;">
@@ -65,7 +65,7 @@
      <td> .net Core, Angular </td>
     <td> Play on Lion 11 Cricket App & win big prizes daily ussing c#, angular </td>
   </tr>
-    </tr>
+    
     <tr style="width:fit-content; border: 1px solid;">
     <td> One Touch </td>
     <td> Admin penal </td>
