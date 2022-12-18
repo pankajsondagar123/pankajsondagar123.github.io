@@ -31,38 +31,45 @@
 <table style="width:fit-content; border: 1px solid;">
  <tr style="width:fit-content; border: 1px solid;">
     <th> Project </th>
-    <th> Used </th>
+    <th> Devlopment </th>
+    <th> Technology </th>
     <th> Info </th>
   </tr>
   <tr style="width:fit-content; border: 1px solid;">
     <td> Food Delivery Website </td>
     <td> Web API,Admin penal,Restaurant penal </td>
+    <td> C#, MVC </td>
     <td> Application API and Web API Development Using C# </td>
   </tr>
   <tr style="width:fit-content; border: 1px solid;">
     <td> Meditation Pulse Generation Web </td>
     <td> admin Panel </td>
+     <td> .net Core, MVC </td>
     <td> Perform specific event for Meditation Exercise </td>
   </tr>
    <tr style="width:fit-content; border: 1px solid;">
     <td> Student admission process </td>
     <td> admin web, student web and with api </td>
+     <td> Angular,.net Core, </td>
     <td> student admission process for offer letter,visa process,application, deposite,fess,etc ussing c# and angular </td>
   </tr>
    <tr style="width:fit-content; border: 1px solid;">
     <td> Job find application </td>
     <td> Web changes </td>
+     <td> .net Core, MVC </td>
     <td> find job for video throw. ussing c# and mvc </td>
   </tr>
     <tr style="width:fit-content; border: 1px solid;">
     <td> Lion 11 </td>
     <td> Api,Admin penal </td>
+     <td> .net Core, Angular </td>
     <td> Play on Lion 11 Cricket App & win big prizes daily ussing c#, angular </td>
   </tr>
     </tr>
     <tr style="width:fit-content; border: 1px solid;">
     <td> One Touch </td>
     <td> Admin penal </td>
+     <td> .net Core, Angular </td>
     <td> Car booking,Package booking </td>
   </tr>
 </table>
