@@ -1,5 +1,5 @@
 
-## Intoduction
+## Introduction
 - 👋 Hi, I’m @pankajSondagar , professional **Full Stack Web Developer**
 - 👀 I’m interested in Web development
 - 💞️ I’m looking to collaborate on Web Development Projects
@@ -25,13 +25,13 @@
 
 ## Total Work experience (1.5 Year)
 - 👉 I’m Currently working as a **Full Stack Web developer** at **CodeX Lancers ,Surat**.  Where my role is to development of Website using C# and different  programming language and also debug and testing of systems.
-- 👉 During my professional career , I have worked on Web Development projects for various Ecommerce sites, Admin Panels, And Web API.
+- 👉 During my professional career , I have worked on Web Development projects for various ecommerce sites, Admin Panels, And Web API.
 
 <h3>Projects:</h3>
 <table style="width:fit-content; border: 1px solid;">
  <tr style="width:fit-content; border: 1px solid;">
     <th> Project </th>
-    <th> Devlopment </th>
+    <th> Development </th>
     <th> Technology </th>
     <th> Info </th>
   </tr>
@@ -51,19 +51,19 @@
     <td> Student admission process </td>
     <td> admin web, student web and with api </td>
      <td> Angular,.net Core, </td>
-    <td> student admission process for offer letter,visa process,application, deposite,fess,etc ussing c# and angular </td>
+    <td> student admission process for offer letter,visa process,application, deposite,fess,etc using c# and angular </td>
   </tr>
    <tr style="width:fit-content; border: 1px solid;">
     <td> Job find application </td>
     <td> Web changes </td>
      <td> .net Core, MVC </td>
-    <td> find job for video throw. ussing c# and mvc </td>
+    <td> find job for video throw. using c# and mvc </td>
   </tr>
     <tr style="width:fit-content; border: 1px solid;">
     <td> Lion 11 </td>
     <td> Api,Admin penal </td>
      <td> .net Core, Angular </td>
-    <td> Play on Lion 11 Cricket App & win big prizes daily ussing c#, angular </td>
+    <td> Play on Lion 11 Cricket App & win big prizes daily using c#, angular </td>
   </tr>
     
     <tr style="width:fit-content; border: 1px solid;">
@@ -88,7 +88,7 @@
 - Basic knowledge of jQuery , html , css , javascript languages.
 - Basic knowledge of bootstrap.
 - Mvc, Angular
-- Datatbase:- SQl server
+- Database:- SQl server
 - Oops concepts and programming logics and concepts understanding.
 - Problem solving and error handling skills.
 
@@ -96,7 +96,7 @@
 ## I have worked on following API and Framework like:
 - Asp.Net
 - Entity Framework
-- sql store proceser
+- sql stored procedure
 
 
 ## Web Development:
