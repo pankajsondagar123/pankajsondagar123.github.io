@@ -23,7 +23,7 @@
 - 7.71 CGPA
 
 
-## Total Work experience (1.5 Year)
+## Total Work experience (2 Year)
 - 👉 I’m Currently working as a **Full Stack Web developer** at **CodeX Lancers ,Surat**.  Where my role is to development of Website using C# and different  programming language and also debug and testing of systems.
 - 👉 During my professional career , I have worked on Web Development projects for various ecommerce sites, Admin Panels, And Web API.
 
@@ -71,6 +71,12 @@
     <td> Admin penal </td>
      <td> .net Core, Angular </td>
     <td> Car booking,Package booking </td>
+  </tr>
+   <tr style="width:fit-content; border: 1px solid;">
+    <td> ProRing </td>
+    <td> Api,Admin penal </td>
+     <td> .net Core, Angular </td>
+    <td> Online Rington download and WallPaper Download. </td>
   </tr>
 </table>
 
