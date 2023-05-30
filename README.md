@@ -4,7 +4,7 @@
 - 👀 I’m interested in Web development
 - 💞️ I’m looking to collaborate on Web Development Projects
 - 📫 you can contact me on **pankajsondagar11@gmail.com** or call or whatsapp on **+91 76981 02728**
-- 👋 birth date **22/11/2000**
+- birth date **22/11/2000**
 
 
 ## Education
