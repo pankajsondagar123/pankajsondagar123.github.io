@@ -123,7 +123,7 @@
 ## Version Control Tools:
 - Git (GitLab, GitHub).
 
-## Languages and Tools:
+## Tools:
 - Visual Studio Code.
 - Visual Studio 2019 and 2022
 <br/><br/>
