@@ -78,7 +78,7 @@
     <td> ISA (Indian Society of Anaesthesiologists) </td>
     <td> API, Admin panel, Custom website </td>
      <td> .NET Core, Angular, Vb.net </td>
-    <td> Bug fix </td>
+    <td> This project is focused on saving the records of Government ISA officers and some Government work. this project work only bug fixing. </td>
   </tr>
    <tr style="width:fit-content; border: 1px solid;">
     <td> Sutra Plus </td>
