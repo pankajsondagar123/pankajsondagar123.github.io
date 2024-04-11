@@ -61,7 +61,6 @@
      <td> .NET Core, Angular </td>
     <td> Play on Lion 11 Cricket App & win big prizes daily using C#, Angular </td>
   </tr>
-    
     <tr style="width:fit-content; border: 1px solid;">
     <td> One Touch </td>
     <td> Admin panel </td>
@@ -97,6 +96,12 @@
     <td> API, Admin panel </td>
      <td> .NET Core, MVC </td>
     <td> This project entails creating an application for scanning QR codes and displaying detailed information, along with an admin panel for adding food items, uploading images, and generating QR codes. </td>
+  </tr>
+      <tr style="width:fit-content; border: 1px solid;">
+    <td> Time Tracking Tool </td>
+    <td> API, Admin panel </td>
+     <td> .NET Core, Angular </td>
+    <td> This project involves working on an employee management system where employees can work on multiple projects, add their project hours, and an admin can approve or reject these hours. </td>
   </tr>
   <tr style="width:fit-content; border: 1px solid;">
     <td> Mobhist </td>
