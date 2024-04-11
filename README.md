@@ -188,8 +188,3 @@
   </tr>
 </table>
 
-[![pankajsondagar123's GitHub stats](https://github-readme-stats.vercel.app/api?username=pankajsondagar123&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-
-<p ><img  src="https://github-readme-streak-stats.herokuapp.com/?user=pankajsondagar123&theme=dark" width="494" height="195"  alt="aajay5" /></p>
-
-![visitors](https://visitor-badge.glitch.me/badge?page_id=pankajsondagar123.visitor-badge)
