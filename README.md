@@ -4,8 +4,6 @@
 - 💞️ I’m looking to collaborate on Web Development Projects.
 - 📫 You can reach me at **pankajsondagar11@gmail.com** or call/WhatsApp on **+91 76981 02728**.
 - Birth date: **22/11/2000**.
-- Address: Bundani (Ramgadh) Village, Khambha Taluka, Amreli District,
-Gujarat, India.
 
 ## Education
 ### 2016 S.S.C with Science
