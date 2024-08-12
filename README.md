@@ -19,7 +19,7 @@
 - Gujarat Technological University (GTU)
 - 7.71 CGPA
 
-## Total Work Experience (2.7 Years)
+## Total Work Experience (3.1 Years)
 - 👉 Currently working as a **Senior Full Stack Web developer** at **CodeX Lancers, Surat**. My role includes the development of websites using C# and various programming languages, as well as debugging and testing systems.
 - 👉 During my professional career, I have worked on Web Development projects for various ecommerce sites, Admin Panels, and Web APIs.
 
