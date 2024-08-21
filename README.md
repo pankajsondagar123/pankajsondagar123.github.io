@@ -2,7 +2,6 @@
 - 👋 Hi, I’m @pankajSondagar, a professional **Full Stack Web Developer**.
 - 👀 I’m passionate about Web development.
 - 💞️ I’m looking to collaborate on Web Development Projects.
-- 📫 You can reach me at **pankajsondagar11@gmail.com** or call/WhatsApp on **+91 76981 02728**.
 - Birth date: **22/11/2000**.
 
 ## Education
@@ -19,7 +18,7 @@
 - Gujarat Technological University (GTU)
 - 7.71 CGPA
 
-## Total Work Experience (4 Years)
+## Total Work Experience (3.2 Years)
 - 👉 Currently working as a **Senior Full Stack Web developer** at **Tiksha Infotech, Surat** . My role includes the development of websites using C# and various programming languages, as well as debugging and testing systems.
 - Previously worked as a **Senior Full Stack Web developer** at **Codex Lancer, Surat** with 3 years of experience. My role involved developing websites using C# and various programming languages, along with debugging and testing systems.This company 
 - 👉 During my professional career, I have worked on Web Development projects for various ecommerce sites, Admin Panels, and Web APIs.
