@@ -20,8 +20,8 @@
 - 7.71 CGPA
 
 ## Total Work Experience (4 Years)
-- 👉 Currently working as a **Senior Full Stack Web developer** at **Tiksha Infotech, Surat**. My role includes the development of websites using C# and various programming languages, as well as debugging and testing systems.
-- privious working as a **Senior Full Stack Web developer** at **Codex Lancer, Surat**. My role includes the development of websites using C# and various programming languages, as well as debugging and testing systems.
+- 👉 Currently working as a **Senior Full Stack Web developer** at **Tiksha Infotech, Surat** . My role includes the development of websites using C# and various programming languages, as well as debugging and testing systems.
+- Previously worked as a **Senior Full Stack Web developer** at **Codex Lancer, Surat** with 3 years of experience. My role involved developing websites using C# and various programming languages, along with debugging and testing systems.This company 
 - 👉 During my professional career, I have worked on Web Development projects for various ecommerce sites, Admin Panels, and Web APIs.
 
 <h3>Projects:</h3>
