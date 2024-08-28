@@ -111,6 +111,12 @@
      <td> .NET Core </td>
     <td> This project focuses on developing a mobile phone selling platform. </td>
   </tr>
+ <tr style="width:fit-content; border: 1px solid;">
+    <td> MMU-LTPCT(Learn & Toubro Public Charitable Trust) </td>
+    <td> Admin panel </td>
+     <td> Reactjs </td>
+    <td> This project focuses on developing a Hospital management. </td>
+  </tr>
 </table>
 
 ## Strengths:
@@ -126,6 +132,7 @@
 - Basic knowledge of jQuery, HTML, CSS, JavaScript languages.
 - Basic knowledge of Bootstrap.
 - MVC, Angular.
+- React js
 - Database: SQL Server, MYSQL, Postgress.
 - OOPs concepts and programming logics and concepts understanding.
 - Problem-solving and error-handling skills.
@@ -137,7 +144,7 @@
 - SQL stored procedure
 
 ## Web Development:
-- C#, LinQ, jQuery, HTML, CSS, Bootstrap, JavaScript, MVC, Angular.
+- C#, LinQ, jQuery, HTML, CSS, Bootstrap, JavaScript, MVC, Angular and Reactjs.
 
 ## Version Control Tools:
 - Git (GitLab, GitHub).
@@ -170,6 +177,10 @@
   </tr>
   <tr>
     <td> jQuery </td>
+   <td>&#11088;&#11088;&#11088;&#11088;&#11088;</td>
+  </tr>
+  <tr>
+    <td> Reactjs</td>
     <td>&#11088;&#11088;&#11088;&#11088;&#11088;</td>
   </tr>
   <tr>
