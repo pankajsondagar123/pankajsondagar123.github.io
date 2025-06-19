@@ -12,7 +12,7 @@
       font-family: 'Segoe UI', sans-serif;
     }
     .portfolio-container {
-      max-width: 1000px;
+      max-width: 1100px;
       margin: 50px auto;
       background: #fff;
       padding: 30px;
@@ -31,8 +31,9 @@
       border: 1px solid #ddd;
       border-radius: 10px;
       padding: 20px;
-      margin-bottom: 20px;
+      margin-bottom: 30px;
       background: #fafafa;
+      height: 100%;
     }
     .project-card:hover {
       background-color: #f0f8ff;
@@ -41,9 +42,12 @@
     .project-title {
       font-weight: 600;
       color: #333;
+      font-size: 18px;
     }
     .tech-stack {
       color: #777;
+      font-size: 14px;
+      margin-bottom: 10px;
     }
     .view-link {
       color: #28a745;
@@ -60,44 +64,64 @@
 <div class="portfolio-container">
   <div class="portfolio-header mb-4">
     <h2>Pankaj Sondagar</h2>
-    <p><strong>Project Portfolio:</strong> I have successfully completed over 15 full-stack projects using .NET, Angular, ReactJS, and Azure. While many are protected under NDA, a few selected works are listed below.</p>
+    <p><strong>Project Portfolio:</strong> I have successfully completed over 15 full-stack projects across various industries including education, healthcare, trading, and internal enterprise tools. My core expertise lies in building scalable, secure, and performance-optimized applications using technologies like .NET, Angular, ReactJS, and Microsoft Azure. These projects range from real-time trading platforms and university admission portals to lab management systems and automated CI/CD pipelines. Many of my projects involve complex business workflows, third-party integrations, and cloud deployments using Azure App Services and B2C authentication. While a few selected projects are publicly listed below, a majority are protected under Non-Disclosure Agreements (NDAs) due to client confidentiality.</p>
   </div>
 
-  <!-- Project 1 -->
-  <div class="project-card">
-    <div class="project-title">Food Delivery</div>
-    <div class="tech-stack">Tech Stack: ASP.NET MVC, Flutter</div>
-    <a class="view-link" href="PortfolioFile/FoodDelivery.pdf" target="_blank">🔗 View Project</a>
-  </div>
+  <div class="row">
+    <!-- Project 1 -->
+    <div class="col-md-6">
+      <div class="project-card">
+        <div class="project-title">Food Delivery</div>
+        <div class="tech-stack">Tech Stack: ASP.NET MVC, Flutter</div>
+        <a class="view-link" href="PortfolioFile/FoodDelivery.pdf" target="_blank">🔗 View Project</a>
+      </div>
+    </div>
 
-  <!-- Project 2 -->
-  <div class="project-card">
-    <div class="project-title">University Foundation Program (UFP)</div>
-    <div class="tech-stack">Tech Stack: .NET Core, Angular</div>
-    <a class="view-link" href="PortfolioFile/StudentAddmission.pdf" target="_blank">🔗 View Project</a>
-  </div>
+    <!-- Project 2 -->
+    <div class="col-md-6">
+      <div class="project-card">
+        <div class="project-title">University Foundation Program (UFP)</div>
+        <div class="tech-stack">Tech Stack: .NET Core, Angular</div>
+        <a class="view-link" href="PortfolioFile/StudentAddmission.pdf" target="_blank">🔗 View Project</a>
+      </div>
+    </div>
 
-  <!-- Project 3 -->
-  <div class="project-card">
-    <div class="project-title">SnapDish</div>
-    <div class="tech-stack">Tech Stack: .NET Core, Angular</div>
-    <a class="view-link" href="PortfolioFile/Snapfood.pdf" target="_blank">🔗 View Project</a>
-  </div>
+    <!-- Project 3 -->
+    <div class="col-md-6">
+      <div class="project-card">
+        <div class="project-title">SnapDish</div>
+        <div class="tech-stack">Tech Stack: .NET Core, Angular</div>
+        <a class="view-link" href="PortfolioFile/Snapfood.pdf" target="_blank">🔗 View Project</a>
+      </div>
+    </div>
 
-  <!-- Project 4 -->
-  <div class="project-card">
-    <div class="project-title">Timelyplus</div>
-    <div class="tech-stack">Tech Stack: .NET Core, Angular</div>
-    <a class="view-link" href="PortfolioFile/Timelyplus.pdf" target="_blank">🔗 View Project</a>
-  </div>
+    <!-- Project 4 -->
+    <div class="col-md-6">
+      <div class="project-card">
+        <div class="project-title">Timelyplus</div>
+        <div class="tech-stack">Tech Stack: .NET Core, Angular</div>
+        <a class="view-link" href="PortfolioFile/Timelyplus.pdf" target="_blank">🔗 View Project</a>
+      </div>
+    </div>
 
-  <!-- Project 5 -->
-  <div class="project-card">
-    <div class="project-title">DevExpress Report</div>
-    <div class="tech-stack">Tech Stack: ASP.NET MVC</div>
-    <a class="view-link" href="PortfolioFile/devexpress.pdf" target="_blank">🔗 View Project</a>
-  </div>
+    <!-- Project 5 -->
+    <div class="col-md-6">
+      <div class="project-card">
+        <div class="project-title">DevExpress Report</div>
+        <div class="tech-stack">Tech Stack: ASP.NET MVC</div>
+        <a class="view-link" href="PortfolioFile/devexpress.pdf" target="_blank">🔗 View Project</a>
+      </div>
+    </div>
 
+    <!-- Project 6 -->
+    <div class="col-md-6">
+      <div class="project-card">
+        <div class="project-title">Azure CI/CD Automation</div>
+        <div class="tech-stack">Tech Stack: Azure Pipelines, .NET Core, YAML</div>
+        <a class="view-link" href="PortfolioFile/AzureDevOps.pdf" target="_blank">🔗 View Project</a>
+      </div>
+    </div>
+  </div>
 </div>
 
 </body>
