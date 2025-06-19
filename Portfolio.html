@@ -1,98 +1,103 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-  <title>Project Portfolio - Pankaj Sondagar</title>
-  <meta charset="utf-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1">
-  
-  <!-- Bootstrap -->
-  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/css/bootstrap.min.css">
-  
-  <!-- jQuery and Bootstrap JS -->
-  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.7.1/jquery.min.js"></script>
-  <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/js/bootstrap.min.js"></script>
-
-  <!-- Custom CSS -->
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Pankaj Sondagar – Project Portfolio</title>
+  <!-- Bootstrap 4 CDN -->
+  <link href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css" rel="stylesheet" />
   <style>
     body {
-      background-color: #f9f9f9;
-      font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+      background: #eef2f7;
+      font-family: 'Segoe UI', sans-serif;
     }
-    .container {
-      background-color: #fff;
+    .portfolio-container {
+      max-width: 1000px;
+      margin: 50px auto;
+      background: #fff;
       padding: 30px;
-      margin-top: 50px;
+      border-radius: 12px;
+      box-shadow: 0 4px 20px rgba(0,0,0,0.1);
+    }
+    .portfolio-header h2 {
+      font-weight: 700;
+      color: #2c3e50;
+    }
+    .portfolio-header p {
+      color: #555;
+      font-size: 15px;
+    }
+    .project-card {
+      border: 1px solid #ddd;
       border-radius: 10px;
-      box-shadow: 0 4px 15px rgba(0,0,0,0.1);
+      padding: 20px;
+      margin-bottom: 20px;
+      background: #fafafa;
     }
-    h2 {
-      font-weight: bold;
-      color: #3b3f5c;
-    }
-    p {
-      font-size: 16px;
-      color: #666;
-    }
-    .table > thead > tr {
-      background-color: #f1f1f1;
-    }
-    .table > tbody > tr:hover {
-      background-color: #f9f9f9;
+    .project-card:hover {
+      background-color: #f0f8ff;
       transition: 0.3s ease;
     }
-    .glyphicon-eye-open {
-      color: #5cb85c;
-      font-size: 18px;
+    .project-title {
+      font-weight: 600;
+      color: #333;
     }
-    .glyphicon-eye-open:hover {
-      color: #449d44;
+    .tech-stack {
+      color: #777;
     }
-    .table td, .table th {
-      vertical-align: middle !important;
+    .view-link {
+      color: #28a745;
+      font-weight: bold;
+      text-decoration: none;
+    }
+    .view-link:hover {
+      color: #218838;
     }
   </style>
 </head>
 <body>
 
-<div class="container">
-  <h2>Pankaj Sondagar</h2>
-  <p><strong>Project Portfolio</strong> – A showcase of selected development work.</p>            
-  <table class="table table-bordered table-striped">
-    <thead>
-      <tr>
-        <th>Project Name</th>
-        <th>Technology Stack</th>
-        <th>View</th>
-      </tr>
-    </thead>
-    <tbody>
-      <tr>
-        <td>Food Delivery</td>
-        <td>Asp.net MVC, Flutter</td>
-        <td><a href="PortfolioFile/FoodDelivery.pdf" target="_blank"><span class="glyphicon glyphicon-eye-open"></span></a></td>
-      </tr>
-      <tr>
-        <td>University Foundation Program (UFP)</td>
-        <td>.Net Core, Angular</td>
-        <td><a href="PortfolioFile/StudentAddmission.pdf" target="_blank"><span class="glyphicon glyphicon-eye-open"></span></a></td>
-      </tr>
-      <tr>
-        <td>SnapDish</td>
-        <td>.Net Core, Angular</td>
-        <td><a href="PortfolioFile/Snapfood.pdf" target="_blank"><span class="glyphicon glyphicon-eye-open"></span></a></td>
-      </tr>
-      <tr>
-        <td>Timelyplus</td>
-        <td>.Net Core, Angular</td>
-        <td><a href="PortfolioFile/Timelyplus.pdf" target="_blank"><span class="glyphicon glyphicon-eye-open"></span></a></td>
-      </tr>
-      <tr>
-        <td>Devexpress Report</td>
-        <td>Asp.net MVC</td>
-        <td><a href="PortfolioFile/devexpress.pdf" target="_blank"><span class="glyphicon glyphicon-eye-open"></span></a></td>
-      </tr>
-    </tbody>
-  </table>
+<div class="portfolio-container">
+  <div class="portfolio-header mb-4">
+    <h2>Pankaj Sondagar</h2>
+    <p><strong>Project Portfolio:</strong> I have successfully completed over 15 full-stack projects using .NET, Angular, ReactJS, and Azure. While many are protected under NDA, a few selected works are listed below.</p>
+  </div>
+
+  <!-- Project 1 -->
+  <div class="project-card">
+    <div class="project-title">Food Delivery</div>
+    <div class="tech-stack">Tech Stack: ASP.NET MVC, Flutter</div>
+    <a class="view-link" href="PortfolioFile/FoodDelivery.pdf" target="_blank">🔗 View Project</a>
+  </div>
+
+  <!-- Project 2 -->
+  <div class="project-card">
+    <div class="project-title">University Foundation Program (UFP)</div>
+    <div class="tech-stack">Tech Stack: .NET Core, Angular</div>
+    <a class="view-link" href="PortfolioFile/StudentAddmission.pdf" target="_blank">🔗 View Project</a>
+  </div>
+
+  <!-- Project 3 -->
+  <div class="project-card">
+    <div class="project-title">SnapDish</div>
+    <div class="tech-stack">Tech Stack: .NET Core, Angular</div>
+    <a class="view-link" href="PortfolioFile/Snapfood.pdf" target="_blank">🔗 View Project</a>
+  </div>
+
+  <!-- Project 4 -->
+  <div class="project-card">
+    <div class="project-title">Timelyplus</div>
+    <div class="tech-stack">Tech Stack: .NET Core, Angular</div>
+    <a class="view-link" href="PortfolioFile/Timelyplus.pdf" target="_blank">🔗 View Project</a>
+  </div>
+
+  <!-- Project 5 -->
+  <div class="project-card">
+    <div class="project-title">DevExpress Report</div>
+    <div class="tech-stack">Tech Stack: ASP.NET MVC</div>
+    <a class="view-link" href="PortfolioFile/devexpress.pdf" target="_blank">🔗 View Project</a>
+  </div>
+
 </div>
 
 </body>
